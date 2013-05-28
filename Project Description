@@ -1,0 +1,35 @@
+Yohancé Huggins (Product Manager)
+Mrs. Gerstein
+7-8 A Technology III
+24 May 2013
+FINAL PROJECT DESCRIPTION
+
+Game: Centipede Fighters
+
+Description:
+For our final project game, what we will be doing is a twist off of the classic game 
+centipede.  There are a few different rules that will apply to increase the difficulty. 
+First and fore most the game will start out with a small centipede that will grow by 
+eating some magical piece of fruit. About 10 seconds into the game there will be a 
+second centipede that will be controlled by either another player or by the CPU which 
+will be battling the other centipede to be the last "man" standing.  The centipedes 
+will try and eat each other while still having the capability to grow by getting to 
+the magic fruit first.  If one centipede eats the head of the other centipede it is 
+an automatic a game over and the predator wins.  The CPU will be able to tell who 
+won because there will be only one head of a centipede left.  Centipede has been a 
+very popular game since the start of gaming.  it was among the first games on a 
+handheld device and still is, if not more, popular than when it launched.  This game 
+is for all different ages, but the preferred audience is teenagers and younger kids 
+because most kids enjoy the competitive aspect to a game where they can beat their 
+friends.  We believe that this game could be a hit and get kids involved with the 
+centipede we all came to love as kids.   
+
+Code Monkey- Alex LeGrand 
+
+QA bug tester- Ashley Molina 
+
+UI- Natalia Rincon 
+
+Graphic Designer- Tania Lopes 
+
+Project Manager- Yohancé Huggins
